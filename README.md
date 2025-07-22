@@ -1,116 +1,93 @@
-<h1 align="center">Hey there, I'm Anis Elahi! 👋</h1>
-<h3 align="center">🎯 Data Enthusiast | 📈 Analytics Explorer | 🚀 Building Insightful Dashboards</h3>
+<h1 align="center">Hi there 👋, I'm Anis Elahi</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F9FF&center=true&vCenter=true&width=450&lines=Data+Analyst+%7C+Ops+Enthusiast;Dashboards+%2B+Process+Efficiency;Turning+Data+into+Decisions" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anis-elahi-sk/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:anis2003elahi@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anis-elahi-sk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anis%20Elahi-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/anis-elahi-sk">
-    <img src="https://img.shields.io/github/followers/anis-elahi-sk?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-anis--elahi--sk-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 💡 Who Am I?
+### 🔍 About Me
 
-- 🧑‍🎓 Final-year BTech student at **KIIT**  
-- 🧠 Passionate about **Operations**, **Financial Analytics**, and **Risk Management**  
-- 📊 Love simplifying complex data with **Power BI**, **Python**, and **Excel**  
-- 🧰 Built dashboards that saved 💰 and improved ops efficiency 🚀  
-- 🌱 Currently diving deeper into: `Advanced Analytics`, `SQL Optimization`, `ML for Ops`
-
----
-
-### 🛠️ Tech Toolbox
-
-#### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-#### 📊 Tools & Frameworks
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-#### 🔬 Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+- 🎓 Final Year BTech @ **KIIT**
+- 🧠 Curious about: `Risk Modeling`, `Financial Analytics`, `Operations Strategy`
+- 🛠️ Turning data into cost-saving business actions
+- 📊 Skilled at Excel-powered dashboards, KPI monitoring, and storytelling with Power BI
+- ✨ Currently diving into real-world data projects and simulations
 
 ---
 
-### 🔥 Featured Projects
+### 🧰 Tech Stack
 
-#### 🛡️ Loan Default Risk Detection
-> Built a model to flag high-risk applicants with **83% precision**, saving **25% in projected losses**.  
-> Tools: `Excel`, `Power BI`, `Logistic Regression`, `EDA`
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-#### 📊 SLA Monitoring Dashboard
-> Tracked department task metrics & SLA breaches, improving team resolution time by **30%**.  
-> Tools: `Excel`, `COUNTIF`, `Conditional Formatting`
+#### 📊 Tools & Libraries
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python)
+
+#### 🧠 Platforms & Others
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
-### 📈 GitHub Activity & Stats
+### 🚀 Projects
 
+#### 🛡️ **Loan Default Risk Detection**
+- Identified high-risk applicants with 83% precision using Excel + Power BI
+- Simulated interventions to reduce financial losses by 25%
+
+#### 📈 **KPI Dashboard for Ops Monitoring**
+- Built Excel-based SLA tracking tool
+- Improved resolution rates by 30% and exposed team bottlenecks
+
+---
+
+### 🧠 Ongoing Learning
+
+- 📚 **Data Analyst Bootcamp** - FreeCodeCamp  
+  > Covered: `Data Wrangling`, `Statistical Analysis`, `SQL`, `Pandas`, `Data Viz`
+
+---
+
+### 🌐 Cool Stuff
+
+#### 🧠 Animated Skill Showcase
+![Anis’s Skills](https://skillicons.dev/icons?i=python,sql,java,cpp,pandas,numpy,opencv,excel,github,notion,powerbi&perline=6)
+
+#### 🌍 3D Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anis-elahi-sk&theme=tokyonight&show_icons=true&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anis-elahi-sk&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-elahi-sk&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🧠 Dev Card
-
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="100" />
-  <br />
-  <a href="https://github.com/denvercoder1/github-readme-stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anis-elahi-sk&theme=radical" />
-  </a>
+  <img src="https://github.com/antoinebidet/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg" alt="3D Graph" />
 </p>
 
 ---
 
-### ⏱️ Wakatime (Coding Time)
+### 💬 Let's Connect!
 
-<!-- You must connect your GitHub to Wakatime to enable this -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username" />
-</p>
--->
+- 📧 anis2003elahi@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anis-elahi-sk)  
+- 🌐 [Personal Site (coming soon...)](https://AnisElahi)
 
 ---
 
-### ✨ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 🧩 Fun Facts
-
-- 🎮 Gamer by night, Data guy by day  
-- 💡 My dashboards speak louder than my emails  
-- ⚡ Motto: "Measure. Analyze. Improve."
-
----
-
-> 📫 **Get in touch**: anis2003elahi@gmail.com | [LinkedIn](https://www.linkedin.com/in/anis-elahi-sk/)
+> 🧭 *"Good data isn't enough — it's the clarity you draw from it that moves decisions."*
 
