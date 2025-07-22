@@ -69,8 +69,6 @@
 
 ---
 
-### 🌐 Cool Stuff
-
 #### 🧠 Animated Skill Showcase
 ![Anis’s Skills](https://skillicons.dev/icons?i=python,sql,java,cpp,pandas,numpy,opencv,excel,github,notion,powerbi&perline=6)
 
